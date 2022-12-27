@@ -1,0 +1,11 @@
+Процессор:
+-DualCore Intel Pentium G3240, 3100 MHz (31 x 100) 
+-Intel Haswell-DT GT1 - Integrated Graphics Controller 
+Память: 
+-DDR3 Crucial CT51264BA160BJ 4гб 1333 мгц
+Видеокарта: 
+-Не обнаружено
+Жесткий диск:
+-ST1000DMo10-2EP102 1тб
+Дисковод:
+-HL-DT-ST DVDRAM GH24NSD0
